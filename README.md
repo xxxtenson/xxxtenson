@@ -1,0 +1,98 @@
+ <center>
+     <h1>郑建彬</h1>
+ </center>
+ 
+ ## 个人信息
+ 
+ * 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年龄：20
+ * 手机：15875926880 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮箱：zheng020402@qq.com
+ * 专业：软件技术  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  岗位：Web前端开发工程师
+
+## 工作经历
+
+* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp; 招生部-组长
+* 负责宣传学校，让学生了解我校，来我校咨询参观负责电话咨询、回访、来访学生接待、跟单等工作
+* 岗位职责：网络营销，网站建设、招生工作
+* 工作来访：负责接待来访学生，讲解校园设施以及参观工作
+* 广告宣传：负责学校报纸、招生通讯、公交等各种媒体的广告宣传
+* 电话接待：负责来电咨询、回访以网络咨询、市场外联登记有意向的学生工作电话回访
+
+## 教育经历
+
+* 广东理工学院&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2023.6&emsp;&emsp;&emsp;&emsp; 软件技术-专科
+* 主要课程：Java程序设计、数据库技术与应用、软件测试基础、JSP程序设计、PHP程序设计、Android应用开发
+
+## 社团经历
+
+* 编程协会 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.10-2022.08&emsp;&emsp;&emsp;&emsp;学术部-成员
+* 负责开展教学项目（开展各类编程知识教学课程）
+* 负责组织各类编程比赛（提高协会成员的编程能力）
+
+## 专业技能
+
+* git
+* Vue全家桶
+* React全家桶
+* Mysql
+
+## 个人账号
+
+* Wechat：Zheng020402
+* E-mail：Zheng020402@qq.com
+* GitHub：https://github.com/xxxtenson
+* Csdn:https://blog.csdn.net/weixin_56556157?spm=1000.2115.3001.5343
+* Blog:https://kxdj.xyz
+
+## 其他信息
+
+* 喜欢钻研技术
+* 狂热游戏粉(各种大中型游戏)
+* 创作美食家（喜欢做各种风格的美食）
+
+## 个人优势
+
+* 具有良好的沟通和适应能力，能够更好地融入工作环境，注意团队意识，提高工作效率。
+* 学习及分析能力强，能够利用大数据了解对互联网行业的发展前景和趋势。
+* 应变能力强和情绪稳定，会有理性地面对突发情况时，注重问题解决的办法
+
+## 项目经历
+
+1.仓储管理系统 - 独立开发 - 2022.02-2022.04
+
+* 注册页面（输入用户名/密码、注册按钮等）
+* 登录页面（输入用户名/密码、登录按钮、保持登录选项、跳转注册页面按钮等）
+* 使用iconfont（字体图标）加载登录注册页面当中
+* 使用Json数组存储记录注册过的用户信息列表（模拟数据库）
+* 开发软件：Visual studio 2022 + Navicat Premium 16
+* 技术栈： vue3 + vue-router + vuex + vue-cli + ES6 + axios + Element-UI + node
+
+2.技术博客（前后端分离）- 独立开发 - 2022.08-至今
+
+* 技术栈：
+* 后端：Spring boot + Mybatis + Nginx + Swagger-UI + Redis + Lombok + PageHelper + Hutool + Shiro
+* 前端：Vue + Vue-element + Vue-router + Vue-cli + axios
+* 移动端：Uni-app + Es6 + 微信小程序
+* 开发工具：Intellij IDEA 2022.01 + Navicat Premium 16 + Postman + Xshell + Xftp + Visual Stuidio code + Visual studio 2022 + HBuilderX + Typora + 微信开发者工具
+* 开发环境：JDK + Mysql + Redis + Node.js
+
+3.易云记博客 - 独立开发 - 2022.08-2022.08
+
+* 技术栈：HTML + CSS + JavaScript + JQuery + PHP + Mysql + Nginx
+* 开发工具：腾讯云宝塔系统面板（CentOS 7.9.2009 x86_64(py 3.7.9)）
+* 功能：多端登录、登录注册面板、评论IP定位、多菜单详情、页脚在线音乐播放
+
+4. 战棋类卡牌游戏 - 策划&游戏设计&开发 - 2022.08-至今
+
+* 以上古三大奇书之一的（山海经）为主题构建的战棋类卡牌游戏，该游戏故事以及人物均以山海经文献为参考，进行设计开发
+* 玩法（模式）：五大类（动画信息、关卡数据、地图数据、角色数据、游戏状态）
+* 动画信息：地图动画数据、战斗动画数据
+* 关卡数据：回合数、目标条件、关卡剧本、当前行动阵营、天气等一些游戏特有的数据
+* 地图数据：地图块、AOE
+* 角色数据：阵营、角色、BUFF、伤害信息
+* 游戏状态：回合开始、选择角色（角色详细信息）、角色移动（选择移动范围状态、选择目标状态、信息确认状态）、对战状态、回合结束
+* 技术栈：C++（网络通讯数据传输） + Lua（业务逻辑） + Mysql（关系型数据库） + Mongoba（非关系型数据库）
+* 服务端架构：
+* Gate（负责客户端链接及消息转发到 Game （游戏服）保持客户端到服务端的链接）
+* GameServer （游戏进程,提供游戏逻辑功能(采用单进程(或者单线程)模型）
+* DBManager （实现数据库的读写，方便 Game 服务器异步读写数据库的数据）
+* GameManager （负责管理所有的 GameServer，GameServer 之间消息转发，提供广播到所有 Game 的功能）
