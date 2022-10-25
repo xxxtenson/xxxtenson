@@ -1,15 +1,28 @@
- <center>
-     <h1>TBin</h1>
- </center>
+
+ # TBin
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxtenson)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+<!-- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=radical) -->
  
  ## 个人信息
+ 
  
  * 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年龄：20
  * 手机：15875926880 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮箱：zheng020402@qq.com
  * 专业：软件技术  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  岗位：Web前端开发工程师
+
+## 专业技能
+
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/Cxxxtenson/github-readme-stats) -->
 
 ## 工作经历
 
@@ -40,12 +53,6 @@
 * 负责开展教学项目（开展各类编程知识教学课程）
 * 负责组织各类编程比赛（提高协会成员的编程能力）
 
-## 专业技能
-
-* Git
-* 前端基本框架
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/Cxxxtenson/github-readme-stats)
 
 ## 个人账号
 
@@ -60,11 +67,9 @@
 * Blog
 > https://kxdj.xyz
 
-## 其他信息
+## 个人爱好
 
-* 喜欢钻研技术
-* 狂热游戏粉(各种大中型游戏)
-* 创作美食家（喜欢做各种风格的美食）
+ <img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 ## 个人优势
 
