@@ -132,5 +132,6 @@
 * 技术栈
 > Vue3 Scss Vite Typescript Vue-Router
 > UI Element-Plus 库
-* 开源地址：https://github.com/xxxtenson/General-management-system
-* 该方案作为一套多功能的后台框架模板，适用于绝大部分的后台管理系统开发，基于 Vue3 + Vite + Typescript 开发的后台管理系统，引用了 Element-Plus 组件库，方便开发实现逻辑简单。
+* 开源地址
+> https://github.com/xxxtenson/General-management-system
+>> 该方案作为一套多功能的后台框架模板，适用于绝大部分的后台管理系统开发，基于 Vue3 + Vite + Typescript 开发的后台管理系统，引用了 Element-Plus 组件库，方便开发实现逻辑简单。
