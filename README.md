@@ -1,5 +1,5 @@
  <center>
-     <h1>郑建彬</h1>
+     <h1>TBin</h1>
  </center>
  
  ## 个人信息
@@ -10,12 +10,21 @@
 
 ## 工作经历
 
-* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp; Web前端开发-成员
-* 负责宣传学校，让学生了解我校，来我校咨询参观负责电话咨询、回访、来访学生接待、跟单等工作
-* 岗位职责：网络营销，网站建设、招生工作
-* 工作来访：负责接待来访学生，讲解校园设施以及参观工作
-* 广告宣传：负责学校报纸、招生通讯、公交等各种媒体的广告宣传
-* 电话接待：负责来电咨询、回访以网络咨询、市场外联登记有意向的学生工作电话回访
+* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp; Web前端开发
+* 
+*
+*
+*
+*
+*
+
+* 广东阿兔兔网络科技有限公司&emsp;&emsp;&emsp;&emsp;&ensp;2022.08~2022.10&emsp;&emsp;&emsp;&emsp;&emsp; Web前端开发
+* 
+*
+*
+*
+*
+*
 
 ## 教育经历
 
@@ -30,10 +39,8 @@
 
 ## 专业技能
 
-* git
-* Vue全家桶
-* React全家桶
-* Mysql
+* Git
+* 前端基本框架
 
 ## 个人账号
 
@@ -57,7 +64,7 @@
 
 ## 项目经历
 
-1.仓储管理系统 - 独立开发 - 2022.02-2022.04
+1.仓储管理系统 - 独立开发 - 2022.02-2022.03
 
 * 注册页面（输入用户名/密码、注册按钮等）
 * 登录页面（输入用户名/密码、登录按钮、保持登录选项、跳转注册页面按钮等）
@@ -66,7 +73,7 @@
 * 开发软件：Visual studio 2022 + Navicat Premium 16
 * 技术栈： vue3 + vue-router + vuex + vue-cli + ES6 + axios + Element-UI + node
 
-2.技术博客（前后端分离）- 独立开发 - 2022.08-至今
+2.技术博客（前后端分离）- 独立开发 - 2022.08-2022.08
 
 * 技术栈：
 * 后端：Spring boot + Mybatis + Nginx + Swagger-UI + Redis + Lombok + PageHelper + Hutool + Shiro
@@ -96,3 +103,13 @@
 * GameServer （游戏进程,提供游戏逻辑功能(采用单进程(或者单线程)模型）
 * DBManager （实现数据库的读写，方便 Game 服务器异步读写数据库的数据）
 * GameManager （负责管理所有的 GameServer，GameServer 之间消息转发，提供广播到所有 Game 的功能）
+
+5.General-management-system - 独立开发 - 2022.10
+
+* 开发环境
+> Windows11 NodeJS Vue Vite
+* 技术栈： 
+> Vue3 Scss Vite Typescript Vue-Router
+> UI Element-Plus 库
+* 开源地址：https://github.com/xxxtenson/General-management-system
+* 该方案作为一套多功能的后台框架模板，适用于绝大部分的后台管理系统开发，基于 Vue3 + Vite + Typescript 开发的后台管理系统，引用了 Element-Plus 组件库，方便开发实现逻辑简单。
