@@ -45,6 +45,8 @@
 * Git
 * 前端基本框架
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/Cxxxtenson/github-readme-stats)
+
 ## 个人账号
 
 * Wechat
