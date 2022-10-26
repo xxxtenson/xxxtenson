@@ -89,7 +89,7 @@ Wechat
 > 应变能力强和情绪稳定，会有理性地面对突发情况时，注重问题解决的办法
 
 ## Project Experience - 项目经历
-
+<br/>
 Warehouse Management System - 仓储管理系统 - 独立开发 - 2022.02-2022.03
 
 * development environment - 开发环境
@@ -107,7 +107,10 @@ Warehouse Management System - 仓储管理系统 - 独立开发 - 2022.02-2022.0
 > 注册页面（输入用户名/密码、注册按钮等）     
 > 使用iconfont（字体图标）加载登录注册页面当中    
 > 使用Json数组存储记录注册过的用户信息列表（模拟数据库）  
-> 登录页面（输入用户名/密码、登录按钮、保持登录选项、跳转注册页面按钮等）    
+> 登录页面（输入用户名/密码、登录按钮、保持登录选项、跳转注册页面按钮等）   
+ 
+<br/>
+<br/>
 
 Front and back end Separation Technology blog - 技术博客 - 独立开发 - 2022.08-2022.08
 
@@ -130,6 +133,8 @@ Front and back end Separation Technology blog - 技术博客 - 独立开发 - 20
 >>  Vue-router   
 >>  Element - Plus  
 
+<br/>
+<br/>
 
 Yi Yunji blog - 易云记博客 - 独立开发 - 2022.08-2022.08
 
@@ -144,6 +149,9 @@ Yi Yunji blog - 易云记博客 - 独立开发 - 2022.08-2022.08
 > React - Router  
 > JavaScript  
 > Mui   
+
+<br/>
+<br/>
 
 Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 2022.08-至今
 
@@ -173,6 +181,9 @@ Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 20
 > GameServer （游戏进程,提供游戏逻辑功能(采用单进程(或者单线程)模型）  
 > DBManager （实现数据库的读写，方便 Game 服务器异步读写数据库的数据）  
 > GameManager （负责管理所有的 GameServer，GameServer 之间消息转发，提供广播到所有 Game 的功能）  
+
+<br/>
+<br/>
 
 General-management-system -  - 独立开发 - 2022.10
 
