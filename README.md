@@ -27,8 +27,8 @@
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats) -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
 
 <br/>
 
