@@ -23,13 +23,15 @@
 
 ## Occupational History - 工作经历
 
-* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Web前端开发工程师（兼职）
-
+* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Web前端开发工程师（兼职）      
+       
 * 负责官网及网页UI设计与开发
 * 开发环境运用了 Vue 框架 以及 Element UI库
 * 收集学校内的各种信息渠道以及进行合并上传数据库
 * 运用数据库搭建校内校友社交平台以及开发了三大模块
 * 外卖 - 发帖 - 兼职发布/物品丢失找回 功能模块
+
+<br/>
 
 * 广东阿兔兔网络科技有限公司&emsp;&emsp;&emsp;&emsp;&ensp;2022.08~2022.10&emsp;&emsp;&emsp;&emsp;&emsp; 全栈开发工程师 （实习）
 * 
