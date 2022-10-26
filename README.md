@@ -3,7 +3,8 @@
  
  <br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=xxxtenson&theme=highcontrast)](https://git.io/streak-stats)
+
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=radical) -->
@@ -57,6 +58,8 @@
 * 按照客户需求用 Solidity 语言开发合约与前端页面（Metamask钱包）进行交互以及交易  
     
     <br/>
+    
+    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 ## Education Experience - 教育经历
 
@@ -320,3 +323,6 @@ General-management-system -  - 独立开发 - 2022.10
 >>基于 Vue3 + Vite + Typescript 开发的后台管理系统，  
 >>引用了 Element-Plus 组件库，方便开发实现逻辑简单。  
 >>>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+
