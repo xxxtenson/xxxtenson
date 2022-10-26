@@ -25,10 +25,10 @@
 
 <br/>
  
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats) -->
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
 
 <br/>
 
@@ -59,7 +59,7 @@
     
     <br/>
     
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+     <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     
 ## Education Experience - 教育经历
 
@@ -324,5 +324,4 @@ General-management-system -  - 独立开发 - 2022.10
 >>引用了 Element-Plus 组件库，方便开发实现逻辑简单。  
 >>>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
 
