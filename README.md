@@ -16,10 +16,10 @@
 ## Professional Skill - 专业技能
 
  
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats)
 
 ## Occupational History - 工作经历
 
@@ -95,18 +95,38 @@ Wechat
 
 ## Project Experience - 项目经历
 <br/>
+Driver's license to small program - 驾照来小程序 - 开发测试 - 2020.06-2020.10
+<br/>
+> 驾照来小程序主要采用与商户进行对接，然后协商发布优惠券、返还金额等活动
+> 该项目分管理端与微信小程序端
+> 管理端主要采用 NestJS 与 Vue3 进行开发 采用 Element Plus 作为UI库
+> 最终借助于微信小程序进行展示
+<br/>
+* 职责
+
+> 平台页面开发以及测试
+> 前台使用 Vue 开发而成
+> 使用 Vue-Router 、 Vuex 等组件实现路由功能以及状态管理
+> 对项目进行测试，查看是否项目存在明显漏洞
+
+<br/>
 Warehouse Management System - 仓储管理系统 - 独立开发 - 2022.02-2022.03
+<br/>
 
 * development environment - 开发环境
 > Windows 11  
 > Visual Studio Code   
 > Navicat Premium 16  
 
+<br/>
+
 *  Technology stack - 技术栈
 > Vue3     
 > Vue-cli      
 > Vue-Router   
-> Element - Plus      
+> Element - Plus  
+    
+<br/>
 
 *  Development capabilities - 开发功能
 > 注册页面（输入用户名/密码、注册按钮等）     
@@ -119,10 +139,14 @@ Warehouse Management System - 仓储管理系统 - 独立开发 - 2022.02-2022.0
 
 Front and back end Separation Technology blog - 技术博客 - 独立开发 - 2022.08-2022.08
 
+<br/>
+
 *  development environment - 开发环境
 > Windows 11  
 > Visual Studio Code   
-> Navicat Premium 16  
+> Navicat Premium 16 
+ 
+<br/>
 
 * Technology stack - 技术栈 
 > 后端  
@@ -130,6 +154,8 @@ Front and back end Separation Technology blog - 技术博客 - 独立开发 - 20
 >> Redis  
 >> Mybatis  
 >> Spring boot   
+
+<br/>
 
 > 前端  
 >>  Vue     
@@ -143,11 +169,15 @@ Front and back end Separation Technology blog - 技术博客 - 独立开发 - 20
 
 Yi Yunji blog - 易云记博客 - 独立开发 - 2022.08-2022.08
 
+<br/>
+
 *  development environment - 开发环境
 > Windows 11    
 > Visual Studio Code     
 > Navicat Premium 16    
 > CentOS 7.9.2009 x86_64(py 3.7.9)    
+
+<br/>
 
 * Technology stack - 技术栈  
 > React  
@@ -160,13 +190,16 @@ Yi Yunji blog - 易云记博客 - 独立开发 - 2022.08-2022.08
 
 Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 2022.08-至今
 
+<br/>
+
 *  gameplay - 游戏玩法    
 > 动画信息    
 > 关卡数据    
 > 地图数据    
 > 角色数据    
-> 游戏状态    
-
+> 游戏状态  
+  
+<br/>
 
 * 游戏状态
 > 开始  
@@ -175,11 +208,15 @@ Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 20
 > 对战状态  
 > 回合结束  
 
+<br/>
+
 * Technology stack - 技术栈     
 >  C++（网络通讯数据传输）    
 >  Lua（业务逻辑）    
 >  Mysql（关系型数据库）   
 >  Mongoba（非关系型数据库）  
+
+<br/>
 
 *  Server Architecture - 服务端架构
 > Gate（负责客户端链接及消息转发到 Game （游戏服）保持客户端到服务端的链接）  
@@ -192,9 +229,13 @@ Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 20
 
 General-management-system -  - 独立开发 - 2022.10
 
+<br/>
+
 *  development environment - 开发环境  
 > Windows11    
-> NodeJS      
+> NodeJS     
+ 
+<br/>
 
 * Technology stack - 技术栈   
 > Vue3   
@@ -204,11 +245,12 @@ General-management-system -  - 独立开发 - 2022.10
 > Vue-Router  
 > Element - Plus  
 
+<br/>
 
 * Open source address - 开源地址
 > https://github.com/xxxtenson/General-management-system
 
-
+<br/>
 
 >>>
 >>该方案作为一套多功能的后台框架模板,  
