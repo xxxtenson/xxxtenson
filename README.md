@@ -147,14 +147,20 @@ Wechat
 <br/>
 
 ## Project Experience - 项目经历
+
 <br/>
+<br/>
+
 Driver's license to small program - 驾照来小程序 - 开发测试 - 2020.06-2020.10
+
 <br/>
 > 驾照来小程序主要采用与商户进行对接，然后协商发布优惠券、返还金额等活动
 > 该项目分管理端与微信小程序端
 > 管理端主要采用 NestJS 与 Vue3 进行开发 采用 Element Plus 作为UI库
 > 最终借助于微信小程序进行展示
+
 <br/>
+
 * 职责
 
 > 平台页面开发以及测试
@@ -163,7 +169,10 @@ Driver's license to small program - 驾照来小程序 - 开发测试 - 2020.06-
 > 对项目进行测试，查看是否项目存在明显漏洞
 
 <br/>
+<br/>
+
 Warehouse Management System - 仓储管理系统 - 独立开发 - 2022.02-2022.03
+
 <br/>
 
 * development environment - 开发环境
