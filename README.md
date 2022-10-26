@@ -34,12 +34,12 @@
 <br/>
 
 * 广东阿兔兔网络科技有限公司&emsp;&emsp;&emsp;&emsp;&ensp;2022.08~2022.10&emsp;&emsp;&emsp;&emsp;&emsp; 全栈开发工程师 （实习）  
+     
 * 按照客户需求 Solidity 语言开发智能合约  
 * 搭配 Vue3 / React 框架进行 Dapp 开发  
 * 配合 Element - Plus / Mui 库进行Dapp的页面UI设计、排版  
 * 按照客户需求用 Solidity 语言开发合约与前端页面进行交互以及交易  
-
-
+    
 ## Education Experience - 教育经历
 
 * 广东理工学院&emsp;&emsp;&emsp;&emsp;&emsp;2020.09~2023.06&emsp;&emsp;&emsp; 软件技术-专科
