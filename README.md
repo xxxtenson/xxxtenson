@@ -17,7 +17,7 @@
  
  * 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年龄：20
  * 手机：15875926880 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮箱：zheng020402@qq.com
- * 专业：软件技术  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  岗位：Web前端开发工程师
+ * 专业：软件技术  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  岗位：初级全栈开发工程师
 
 <br/>
 
