@@ -56,9 +56,13 @@
 ## experience in association activities - 社团经历
 
 * 编程协会 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.10-2022.08&emsp;&emsp;&emsp;&emsp;学术部-成员
-*
-*
-*
+
+* 举办编程协会特色的活动
+* 通过协会活动的主办向全校推广关于开发编程的知识，增进大学生对开发的了解。
+
+* 网络传播途径的建立
+* 协会公众号的编程小知识以及课程拍摄
+* 帮助新成员加速进入编程节奏，深入编程的理解以及开展相关教学课程
 
 ## Social Media Account - 个人账号
 
