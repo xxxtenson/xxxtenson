@@ -23,7 +23,7 @@
 
 ## Occupational History - 工作经历
 
-* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Web前端开发工程师（兼职）      
+* 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Web前端开发工程师（兼职）      
        
 * 负责官网及网页UI设计与开发
 * 开发环境运用了 Vue 框架 以及 Element UI库
