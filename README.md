@@ -1,31 +1,44 @@
 
  # TBin
  
+ <br/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats)
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxtenson&show_icons=true&theme=radical) -->
  
+ <br/>
+ 
  ## Personal Details - 个人信息
  
+ <br/>
  
  * 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年龄：20
  * 手机：15875926880 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮箱：zheng020402@qq.com
  * 专业：软件技术  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  岗位：Web前端开发工程师
 
+<br/>
+
 ## Professional Skill - 专业技能
 
+<br/>
  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xxxtenson/github-readme-stats) -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxtenson)](https://github.com/xxxtenson/github-readme-stats)
 
+<br/>
 
 ## Occupational History - 工作经历
 
+<br/>
+
 * 广东隐域教育投资有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.06~2020.10&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Web前端开发工程师（兼职）      
-       
+
+<br/>
+
 * 负责官网及网页UI设计与开发
 * 开发环境运用了 Vue 框架 以及 Element UI库
 * 收集学校内的各种信息渠道以及进行合并上传数据库
@@ -35,6 +48,7 @@
 <br/>
 
 * 广东阿兔兔网络科技有限公司&emsp;&emsp;&emsp;&emsp;&ensp;2022.08~2022.10&emsp;&emsp;&emsp;&emsp;&emsp; 全栈开发工程师 （实习）  
+<br/>
      
 * 开发 —— Metamask | BscScan | Aptos | Ethereum | Swap | Liquidity .....
 * 按照客户需求 Solidity 语言开发智能合约  
@@ -42,9 +56,15 @@
 * 配合 Element - Plus / Mui 库进行Dapp的页面UI设计、排版  
 * 按照客户需求用 Solidity 语言开发合约与前端页面（Metamask钱包）进行交互以及交易  
     
+    <br/>
+    
 ## Education Experience - 教育经历
 
+<br/>
+
 * 广东理工学院&emsp;&emsp;&emsp;&emsp;&emsp;2020.09~2023.06&emsp;&emsp;&emsp; 软件技术-专科
+
+<br/>
 
 * 主要课程 🚀🚀
 > Java程序设计  
@@ -54,9 +74,15 @@
 > PHP程序设计  
 > Android应用开发  
 
+<br/>
+
 ## experience in association activities - 社团经历
 
+<br/>
+
 * 编程协会 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.10-2022.08&emsp;&emsp;&emsp;&emsp;学术部-成员
+
+<br/>
 
 * 举办编程协会特色的活动
 * 通过协会活动的主办向全校推广关于开发编程的知识，增进大学生对开发的了解。
@@ -65,34 +91,60 @@
 * 协会公众号的编程小知识以及课程拍摄
 * 帮助新成员加速进入编程节奏，深入编程的理解以及开展相关教学课程
 
+<br/>
+
 ## Social Media Account - 个人账号
+
+<br/>
 
 Wechat  
 > Zheng020402  
 
+<br/>
+
  E-mail  
 > Zheng020402@qq.com  
+
+<br/>
 
  GitHub  
 > https://github.com/xxxtenson  
 
+<br/>
+
  Csdn  
 > https://blog.csdn.net/weixin_56556157?spm=1000.2115.3001.5343  
+
+<br/>
 
  Blog  
 > https://kxdj.xyz  
 
+<br/>
+
 ## Personal Preference - 个人爱好
+
+<br/>
 
  <img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
+<br/>
+
 ## Personal Strength - 个人优势
+
+<br/>
 
 > 具有良好的沟通和适应能力，能够更好地融入工作环境，注意团队意识，提高工作效率。
 
+<br/>
+
 > 学习及分析能力强，能够利用大数据了解对互联网行业的发展前景和趋势。
 
+<br/>
+
 > 应变能力强和情绪稳定，会有理性地面对突发情况时，注重问题解决的办法
+
+<br/>
 
 ## Project Experience - 项目经历
 <br/>
