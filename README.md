@@ -52,6 +52,7 @@
 <br/>
      
 * 开发 —— Metamask | BscScan | Aptos | Ethereum | Swap | Liquidity .....
+* 技术栈 —— Vue3 、 React 、 Vite 、Typescript 、 Solidity 、 Web3 
 * 按照客户需求 Solidity 语言开发智能合约  
 * 搭配 Vue3 / React 框架进行 Dapp 开发  
 * 配合 Element - Plus / Mui 库进行Dapp的页面UI设计、排版  
