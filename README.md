@@ -293,6 +293,11 @@ Battle flag card games - 战棋类卡牌游戏 - 策划&游戏设计&开发 - 20
 <br/>
 <br/>
 
+Battle Flag Card Game Game Description Document UniApp applet -  -  独立开发 - 2022.11
+
+<br/>
+<br/>
+
 General-management-system -  - 独立开发 - 2022.10
 
 <br/>
